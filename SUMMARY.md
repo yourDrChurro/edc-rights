@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Amendment 1](README.md)
+* [Amendment I](README.md)
 * [Amendment II](amendment-ii.md)
 * [Amendment III](amendment-iii.md)
 * [Amendment IV](amendment-iv.md)
